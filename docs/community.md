@@ -37,21 +37,21 @@ developing tooling, we welcome your contributions.
         <div class="flex flex-wrap w-6/7 mt-8 mx-auto md:-ml-5 clear-both">
             <div class="w-full md:w-1/2 getting_started_card md:pl-5 lg:mb-0 mb-8">
                 <div class="bg-pastel-green h-full rounded-lg p-10">
-                    <p class="h4 font-semibold mb-6">General contributions</p>
-                    <p>For general questions, suggestions, or status updates, please use one of the following channels.</p>
+                    <p class="h4 font-semibold mb-6">How to contribute</p>
+                    <p>For questions, suggestions, or status updates, please use one of the following channels.</p>
                     <a target="_blank" href="https://github.com/slsa-framework/slsa/blob/main/CONTRIBUTING.md" class="cta-link mt-6 font-semibold h5">Contribution guidelines</a>
-                    <a target="_blank" href="notes/community" class="cta-link mt-6 font-semibold h5">Community meeting (monthly)</a>
+                    <a target="_blank" href="notes/specification" class="cta-link mt-6 font-semibold h5">Specification meeting (weekly)</a>
                     <a target="_blank" href="https://github.com/slsa-framework/slsa/issues" class="cta-link mt-6 font-semibold h5">GitHub issues (tracks all work)</a>
                     <a target="_blank" href="https://slack.openssf.org/" class="cta-link mt-6 font-semibold h5" title="#slsa">Slack (#slsa)</a>
                     <a target="_blank" href="https://groups.google.com/g/slsa-discussion" class="cta-link mt-6 font-semibold h5">Mailing list</a>
                 </div>
             </div>
-            <div class="w-full md:w-1/2 getting_started_card md:pl-5 lg:mb-0 mb-8">
+     <div class="w-full md:w-1/2 getting_started_card md:pl-5 lg:mb-0 mb-8">
                 <div class="bg-pastel-green h-full rounded-lg p-10">
-                    <p class="h4 font-semibold mb-6">Special Interest Groups (SIGs)</p>
-                    <p>To get more deeply involved in SLSA, we welcome your participation in the following special interest groups (SIGs). See linked meeting notes for more info, including meeting times and Slack channel.</p>
-                    <a href="notes/specification" class="cta-link mt-6 font-semibold h5">Specification SIG</a>
-                    <a href="notes/tooling" class="cta-link mt-6 font-semibold h5">Tooling SIG</a>
+                    <p class="h4 font-semibold mb-6">Archived meeting notes</p>
+                    <p>The SLSA community no longer holds these meetings regularly. Their meeting notes are archived here for posterity.</p>
+                    <a href="notes/community" class="cta-link mt-6 font-semibold h5">Community meeting</a>
+                    <a href="notes/tooling" class="cta-link mt-6 font-semibold h5">Tooling Special Interest Group</a>
                 </div>
             </div>
         </div>
@@ -64,28 +64,6 @@ developing tooling, we welcome your contributions.
             <p class="font-bold h3 mb-6">“SLSA’s really the first of its kind, a framework for supply chain and build integrity. What sets it apart is the thriving community behind it, and it’s resonating with different organizations.”</p>
             <p class="font-semibold h4 mb-0.5">Kim Lewandowski</p>
             <p class="font-regular">Founder, Chainguard</p>
-        </div>
-    </div>
-</section>
-<section class="section bg-green-dark flex justify-center items-center">
-    <div class="wrapper inner w-full">
-        <div class="md:flex justify-between items-start text-white">
-            <div class="text w-full md:w-1/3">
-<div class="h2 p-0 -mt-16 mb-8 md:mb-0">
-
-## Project status
-
-</div>
-            </div>
-            <div class="w-full md:w-1/2">
-                <div class="rounded-lg text-green p-5 border border-green-400 inline-block mb-8 h4">SLSA v1.0 is available now!</div>
-                <p>
-                <a href="spec/v1.0/">SLSA v1.0</a> is now available, released in April 2023.
-                We expect the specification to remain stable, with future versions expanding its breadth and depth.
-                For more information about this release, see <a href="/spec/v1.0/whats-new">What's new in v1.0</a>.
-                <br><br>
-Google has been using an internal version of SLSA since 2013 and requires it for all of their production workloads.</p>
-            </div>
         </div>
     </div>
 </section>
@@ -106,10 +84,6 @@ Google has been using an internal version of SLSA since 2013 and requires it for
             <a href="https://youtu.be/DNCrK22uE4U" class="w-full lg:w-1/2 md:pl-5 pb-16">
                 <img class="mx-auto w-full" src="https://img.youtube.com/vi/DNCrK22uE4U/0.jpg" alt="operation slsa episode 2 image">
                 <p class="text-green-darker font-bold h5 mt-4">Operation SLSA: Episode 2</p>
-            </a>
-            <a href="https://youtube.com/playlist?list=PLVl2hFL_zAh9sw-wib4W6A14i6DnBTod7" class="w-full lg:w-1/2 md:pl-5">
-                <img class="mx-auto w-full" src="https://img.youtube.com/vi/DxAyP1QVYXc/0.jpg" alt="slsa code image">
-                <p class="text-green-darker font-bold h5 mt-4">SLSA Biweekly Meetings (Playlist)</p>
             </a>
             <a href="https://youtu.be/aS_FKrCLh8o" class="w-full lg:w-1/2 md:pl-5">
                 <img class="mx-auto w-full" src="https://img.youtube.com/vi/aS_FKrCLh8o/0.jpg" alt="supply chain media image">
@@ -135,10 +109,7 @@ Google has been using an internal version of SLSA since 2013 and requires it for
             <div class="w-full md:w-1/2">
                 <div class="bg-pastel-green h-full rounded-lg p-10">
                     <ul>
-                        <li class="mb-2"><a target="_blank" class="font-bold text-green-darker" href="https://github.com/brunodom">Bruno Domingues</a> - Intel</li>
-                        <li class="mb-2"><a target="_blank" class="font-bold text-green-darker" href="https://github.com/david-a-wheeler">David A. Wheeler</a> - Linux Foundation</li>
                         <li class="mb-2"><a target="_blank" class="font-bold text-green-darker" href="https://github.com/joshuagl">Joshua Lock</a> - Verizon</li>
-                        <li class="mb-2"><a target="_blank" class="font-bold text-green-darker" href="https://github.com/kimsterv">Kim Lewandowski</a> - Chainguard</li>
                         <li class="mb-2"><a target="_blank" class="font-bold text-green-darker" href="https://github.com/MarkLodato">Mark Lodato</a> - Google</li>
                         <li class="mb-2"><a target="_blank" class="font-bold text-green-darker" href="https://github.com/mlieberman85">Mike Lieberman</a> - Kusari/CNCF</li>
                         <li class="mb-2"><a target="_blank" class="font-bold text-green-darker" href="https://github.com/trishankatdatadog">Trishank Karthik Kuppusamy</a> - Datadog</li>
